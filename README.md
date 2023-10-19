@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Maxamed-Maxamed&theme=" alt="Maxamed-Maxamed" /></a> </p>
 
-- 🔭 I’m currently working on **Mobile App**
+- 🔭 I’m currently working on **Mobile App Final Year Project**
 - 👯 I’m looking to collaborate on **I’m looking to collaborate on Mobile app development using Android Studio with Kotlin and Swift for Apple platforms and software developer and software engineers.**
 - 🌱 I’m currently learning **BSc (Hons) in Software Systems Development**
 
