@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maxamed</h1>
-<h3 align="center">Mr</h3>
+<h3 align="center">SETU student pursuing a BSc in Software Systems Develop\ment</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/Maxamed-Maxamed&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/Maxamed-Maxamed" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/Maxamed-Maxamed&theme=" alt="https://github.com/Maxamed-Maxamed" /></a> </p>
