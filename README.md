@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on ** Mobile app development using Android Studio with Kotlin and Swift for Apple platforms and software developer and software engineers.**
 - 🌱 I’m currently learning **BSc (Hons) in Software Systems Development**
 
-- 📫 How to reach me **Maxamed15@icloud.com**
+- 📫 How to reach me **therealmaxamedmaxamed@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/Maxamed-Maxamed**
 
 <div> <a href="https://www.linkedin.com/in/maxamed-maxamed-a87298151/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
