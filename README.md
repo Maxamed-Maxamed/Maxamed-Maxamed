@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Maxamed-Maxamed&label=Profile%20views&color=0e75b6&style=flat" alt="Maxamed-Maxamed" /> </p>
 
 - 🔭 I’m currently working on **Mobile App Final Year Project**
-- 👯 I’m looking to collaborate on ** Mobile app development using Android Studio with Kotlin and Swift for Apple platforms and software developer and software engineers.**
+- 👯 I’m looking to collaborate on ** exciting Mobile App Final Year Project opportunities.****************
 - 🌱 I’m currently learning **BSc (Hons) in Software Systems Development**
 
 - 📫 How to reach me **therealmaxamedmaxamed@gmail.com**
