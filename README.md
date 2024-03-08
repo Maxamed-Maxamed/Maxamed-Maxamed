@@ -3,11 +3,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Maxamed-Maxamed&label=Profile%20views&color=0e75b6&style=flat" alt="Maxamed-Maxamed" /> </p>
 
 - 🔭 I’m currently working on a Hydration App to remind users to drink water.
--👯 I’m looking to collaborate on projects involving Python, Typescript, and AI, as well as Android development using Kotlin and Java.
--🤝 I’m looking for help with refining the user interface and optimizing hydration reminder algorithms, leveraging my experience with React, Typescript, and MongoDB.
--🌱 I’m currently learning new technologies such as Spring for backend development and AWS for cloud services.
--💬 Ask me about hydration tips, coding challenges, Android app development strategies, or optimizing database queries using SQL or NoSQL databases like MongoDB.
--⚡ Fun fact: Drinking water can temporarily boost metabolism by 24-30%!
+- 👯 I’m looking to collaborate on projects involving Python, Typescript, and AI, as well as Android development using Kotlin and Java.
+- 🤝 I’m looking for help with refining the user interface and optimizing hydration reminder algorithms, leveraging my experience with React, Typescript, and MongoDB.
+- 🌱 I’m currently learning new technologies such as Spring for backend development and AWS for cloud services.
+- 💬 Ask me about hydration tips, coding challenges, Android app development strategies, or optimizing database queries using SQL or NoSQL databases like MongoDB.
+- ⚡ Fun fact: Drinking water can temporarily boost metabolism by 24-30%!
 - 📫 How to reach me **therealmaxamedmaxamed@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/Maxamed-Maxamed**
 
