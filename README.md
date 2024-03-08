@@ -10,7 +10,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Maxamed Maxamed&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Maxamed Maxamed&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxamed Maxamed&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Maxamed-Maxamed&theme=" alt="Maxamed-Maxamed" /></p>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
