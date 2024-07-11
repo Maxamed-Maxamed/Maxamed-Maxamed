@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning new technologies such as Spring for backend development and AWS for cloud services.
 - 💬 Ask me about hydration tips, coding challenges, Android app development strategies, or optimizing database queries using SQL or NoSQL databases like MongoDB.
 - ⚡ Fun fact: Drinking water can temporarily boost metabolism by 24-30%!
-- 📫 How to reach me **therealmaxamedmaxamed@gmail.com**
+- 📫 How to reach me **maxamed.maxamed4331@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/Maxamed-Maxamed**
 
 <div> <a href="https://www.linkedin.com/in/maxamed-maxamed-a87298151/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
