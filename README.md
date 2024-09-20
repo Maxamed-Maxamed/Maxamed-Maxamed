@@ -81,10 +81,9 @@
   [Certification Badge](https://www.credly.com/badges/e2d0eb06-a426-4a9b-aadd-a890c486a543)
 
 ---
+<h3 align="center">GitHub Stats</h3>
 
-<h3 align="left">GitHub Stats</h3>
-
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxamed-Maxamed&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img align="center right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxamed-Maxamed&layout=compact&theme=tokyonight" alt="Top Languages" />
 
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Maxamed-Maxamed&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 
