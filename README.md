@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maxamed Maxamed</h1>
 <h3 align="center">Software Systems Development Graduate | Skilled in Front-End & Back-End Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Maxamed-Maxamed&label=Profile%20views&color=0e75b6&style=flat" alt="Maxamed-Maxamed" /> </p>
+
 
 🔭 I’m currently working on a **Hydration Mate App** to remind users to drink water, leveraging **Kotlin** and **Firebase**.
 
