@@ -2,7 +2,7 @@
 <h3 align="center">Software Systems Development Graduate </h3>
 <h2 align="center" > 💫 About Me: </h2>
 - 📍 I’m currently based in **Waterford, Ireland**.<br>
-- 💼 I'm seeking an entry-level position to leverage my skills in **software development**, **cloud computing**, machine language  and **cybersecurity **.<br>
+- 💼 I'm seeking an entry-level position to leverage my skills in **software development**, **cloud computing**, machine language and **cybersecurity ** and ** Data Analysis.<br>
 - 🤝 I’m looking to collaborate on **open-source projects related to web development, mobile applications, and full-stack development projects or AI-related applications.**<br>
 - 💬 Ask me about **software development best practices, cloud computing, and project management**.<br>
 - 📫 How to reach me: Maxamed.Maxamed4331@gmail.com <br>
